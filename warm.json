@@ -1,0 +1,11 @@
+{
+  "response": [{
+    "datetime": 1721234567,
+    "filename": "PixelOS_warm-16.0-20260720.zip",
+    "id": "md5sum_of_zip",
+    "romtype": "unofficial",
+    "size": 1234567890,
+    "url": "https://github.com/Shyam-vadgama/crave_aosp_builder/releases/download/pixelos-20260720/PixelOS_warm-16.0-20260720.zip",
+    "version": "16.0"
+  }]
+}
